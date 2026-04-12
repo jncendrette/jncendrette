@@ -21,7 +21,6 @@ Minha busca é constante em conhecimento técnico e comportamental para oferecer
 <div style="display:inline_block"><br/>
     <img align="center" alt="aws_restart" src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="70" height="70"/>
     <img align="center" alt="CCP" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" height="60"/>
-    <img align="center" alt="Scrum" src="https://images.credly.com/size/680x680/images/7beda5e3-c889-48e7-afd3-07cbcbec18ed/blob" width="70" height="70"/>
 </div><br/>
 
 ----
