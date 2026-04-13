@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou José Cendrette
 
-🚀 AI SaaS Builder | 💰 Especialista em Finanças & Tributação
+🚀 AI SaaS Builder | 💰 Tech Soluções em Finanças & Tributação
 🤖 Construindo soluções para automação contábil, fiscal e adaptação à Reforma Tributária (IVA)
 
 ---
@@ -31,7 +31,6 @@ A Reforma Tributária no Brasil cria um cenário de:
 
 ![Frontend-Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Infra-Docker](https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Deploy-VPS Hostinger](https://img.shields.io/badge/Deploy-VPS%20Hostinger-673DE6?style=for-the-badge)
 ![AI-Claude Code](https://img.shields.io/badge/AI-Claude%20Code-000000?style=for-the-badge)
 ![AI-GitHub Copilot](https://img.shields.io/badge/AI-GitHub%20Copilot-000000?style=for-the-badge\&logo=github)
 
