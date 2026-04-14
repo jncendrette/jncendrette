@@ -15,13 +15,15 @@ Ajudar empresas e escritórios contábeis a **transitarem com segurança do mode
 
 ---
 
-## ⚖️ Problema que resolvo
+## ⚖️ Desafio da Reforma Tributária
 
 A Reforma Tributária no Brasil cria um cenário de:
 
 * Alta complexidade na transição
 * Risco de erros fiscais
 * Falta de ferramentas adaptadas ao novo modelo
+* Fatla de Integração Fiscal + Financeiro
+* Falta de previsibilidade
 
 💡 Meu foco é construir soluções que simplifiquem essa mudança.
 
@@ -47,9 +49,9 @@ A Reforma Tributária no Brasil cria um cenário de:
 
 Sistema inteligente para simular e adaptar empresas ao novo modelo de IVA
 
-✔ Simulação de carga tributária
-✔ Comparação: modelo atual vs novo
-✔ Insights automáticos com IA
+* Simulação de carga tributária CBS/IBS/IS
+* Comparação: modelo atual vs novo
+* Insights automáticos com IA
 
 ---
 
@@ -57,9 +59,9 @@ Sistema inteligente para simular e adaptar empresas ao novo modelo de IVA
 
 Automação de rotinas fiscais com inteligência artificial
 
-✔ Classificação automática de operações
-✔ Validação fiscal
-✔ Redução de erros manuais
+* Classificação automática de operações
+* Validação fiscal
+* Redução de erros manuais
 
 ---
 
@@ -67,9 +69,9 @@ Automação de rotinas fiscais com inteligência artificial
 
 Assistente inteligente para suporte contábil e tributário
 
-✔ Respostas baseadas na legislação
-✔ Apoio a escritórios contábeis
-✔ Interpretação de regras fiscais
+* Respostas baseadas na legislação
+* Apoio a escritórios contábeis
+* Interpretação de regras fiscais
 
 ---
 
