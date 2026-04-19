@@ -22,7 +22,7 @@ A Reforma Tributária no Brasil cria um cenário de:
 * Alta complexidade na transição
 * Risco de erros fiscais
 * Falta de ferramentas adaptadas ao novo modelo
-* Fatla de Integração Fiscal + Financeiro
+* Falta de Integração Fiscal + Financeiro
 * Falta de previsibilidade
 
 💡 Meu foco é construir soluções que simplifiquem essa mudança.
